@@ -1,0 +1,10 @@
+folium
+geopandas
+matplotlib
+numpy
+openai
+pandas
+requests
+scikit-learn
+tqdm
+vllm

@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+.venv
+__pycache__
+cache
+output
+huggingface_api_key.txt
+models
+openai_api_key.txt
+input/STRAD_ITA_20251010.csv
